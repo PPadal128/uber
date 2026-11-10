@@ -1,0 +1,17 @@
+fastapi
+numpy
+pandas
+scikit-learn
+pydantic
+uvicorn
+matplotlib
+seaborn
+keras
+tensorflow
+mysqlclient
+sqlalchemy
+mysql-connector-python
+mysql-connector
+flask
+setuptools
+-e .
